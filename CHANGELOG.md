@@ -6,8 +6,6 @@
 
 ### 📚 Documentation
 
-- Added ChangeLog Github
-- Added ChangeLog Public Github
 - Added ChangeLog Public Github
 - Updated Help Manual
 - Added link to Changelog
