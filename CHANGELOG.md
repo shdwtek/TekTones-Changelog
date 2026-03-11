@@ -10,6 +10,7 @@
 
 - Finding Center in Mixer
 - Piano Roll Fwd and Rwd Playhead Auto Scroll
+- Adjusted Lo-Fi Effects Parameters
 
 ### 📚 Documentation
 
