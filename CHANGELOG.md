@@ -7,6 +7,7 @@
 ### 🐛 Bug Fixes
 
 - Finding Center in Mixer
+- Piano Roll Fwd and Rwd Playhead Auto Scroll
 
 ### 📚 Documentation
 
