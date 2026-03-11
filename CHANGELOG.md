@@ -3,6 +3,7 @@
 ### 🚀 Features
 
 - Added Count-down Timer before Recording on Piano Roll
+- Added glow to trigged note blocks in Piano Roll
 
 ### 🐛 Bug Fixes
 
