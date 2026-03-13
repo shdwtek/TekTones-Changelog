@@ -13,6 +13,7 @@
 - Piano Roll Fwd and Rwd Playhead Auto Scroll
 - Adjusted Lo-Fi Effects Parameters
 - Removed Pro Tips referring to Editing Layer
+- Modified Dub Techno Chord preset
 
 ### 📚 Documentation
 
