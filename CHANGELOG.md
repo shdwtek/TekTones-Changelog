@@ -7,6 +7,7 @@
 - Added CPU Usage Meter
 - Drum Mixer and Drum EQ redesign
 - Added Playhead line for Cap sampler module
+- Added Tempo|BPM lock
 
 ### 🐛 Bug Fixes
 
