@@ -17,6 +17,7 @@
 - Removed Pro Tips referring to Editing Layer
 - Modified Dub Techno Chord preset
 - CPU Usage/UI Usage calibration
+- CPU Usage to Load percent
 
 ### 📚 Documentation
 
