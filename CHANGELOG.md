@@ -16,6 +16,7 @@
 - Adjusted Lo-Fi Effects Parameters
 - Removed Pro Tips referring to Editing Layer
 - Modified Dub Techno Chord preset
+- CPU Usage/UI Usage calibration
 
 ### 📚 Documentation
 
