@@ -18,6 +18,7 @@
 - Modified Dub Techno Chord preset
 - CPU Usage/UI Usage calibration
 - CPU Usage to Load percent
+- Cloud Saves
 
 ### 📚 Documentation
 
