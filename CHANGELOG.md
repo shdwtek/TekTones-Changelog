@@ -8,6 +8,7 @@
 - Drum Mixer and Drum EQ redesign
 - Added Playhead line for Cap sampler module
 - Added Tempo|BPM lock
+- Added new Module
 
 ### 🐛 Bug Fixes
 
