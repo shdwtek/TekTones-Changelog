@@ -10,6 +10,7 @@
 - Added Tempo|BPM lock
 - Added new Module
 - Added recording ability for new module
+- Selecting Quantum module now switches to Quantum track layer
 
 ### 🐛 Bug Fixes
 
