@@ -9,6 +9,7 @@
 - Added Playhead line for Cap sampler module
 - Added Tempo|BPM lock
 - Added new Module
+- Added recording ability for new module
 
 ### 🐛 Bug Fixes
 
