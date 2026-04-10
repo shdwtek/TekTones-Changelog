@@ -22,6 +22,7 @@
 - CPU Usage/UI Usage calibration
 - CPU Usage to Load percent
 - Cloud Saves
+- Relocated fwd and rev playhead buttons and made Quantum model persistent with settings
 
 ### 📚 Documentation
 
