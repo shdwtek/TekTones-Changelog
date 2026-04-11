@@ -12,6 +12,7 @@
 - Added recording ability for new module
 - Selecting Quantum module now switches to Quantum track layer
 - Generator Module is now in the track list and can be recorded
+- Recordable Control Automation
 
 ### 🐛 Bug Fixes
 
