@@ -27,6 +27,7 @@
 - Cloud Saves
 - Relocated fwd and rev playhead buttons and made Quantum model persistent with settings
 - Relocated Cut and Move tools along with timer to the right of the Fwd and Rev Buttons
+- Automation Lane Sync
 
 ### 📚 Documentation
 
