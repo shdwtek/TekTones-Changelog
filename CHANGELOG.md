@@ -14,6 +14,7 @@
 - Generator Module is now in the track list and can be recorded
 - Recordable Control Automation
 - Automation Lanes
+- Updated Help Reference Manual and version number to 3.99
 
 ### 🐛 Bug Fixes
 
