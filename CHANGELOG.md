@@ -30,6 +30,7 @@
 - Relocated Cut and Move tools along with timer to the right of the Fwd and Rev Buttons
 - Automation Lane Sync
 - Waveform Block Sync
+- Waveform visibility when using custom samples in Drum Machine
 
 ### 📚 Documentation
 
