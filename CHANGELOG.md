@@ -15,6 +15,7 @@
 - Recordable Control Automation
 - Automation Lanes
 - Updated Help Reference Manual and version number to 3.99
+- Added editable automation lanes in Timeline View
 
 ### 🐛 Bug Fixes
 
