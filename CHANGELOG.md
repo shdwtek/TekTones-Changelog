@@ -17,6 +17,7 @@
 - Updated Help Reference Manual and version number to 3.99
 - Added editable automation lanes in Timeline View
 - Added Impulse Response module
+- Added pinnable IO and Presets
 
 ### 🐛 Bug Fixes
 
