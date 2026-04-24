@@ -38,6 +38,7 @@
 - Partial VU Meter fix
 - VU meter issue fixed for keyboard music playing
 - Pinnable IO and Presets now works
+- Changed Play and Record button location with Visualizer button
 
 ### 📚 Documentation
 
