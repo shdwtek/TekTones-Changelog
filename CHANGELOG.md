@@ -34,6 +34,7 @@
 - Waveform Block Sync
 - Waveform visibility when using custom samples in Drum Machine
 - Session Save Tracks overwritting Generator and Quantum tracks
+- Partial VU Meter fix
 
 ### 📚 Documentation
 
