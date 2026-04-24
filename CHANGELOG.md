@@ -35,6 +35,7 @@
 - Waveform visibility when using custom samples in Drum Machine
 - Session Save Tracks overwritting Generator and Quantum tracks
 - Partial VU Meter fix
+- VU meter issue fixed for keyboard music playing
 
 ### 📚 Documentation
 
