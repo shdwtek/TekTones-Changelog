@@ -18,6 +18,7 @@
 - Added editable automation lanes in Timeline View
 - Added Impulse Response module
 - Added pinnable IO and Presets
+- Cleaned up UI
 
 ### 🐛 Bug Fixes
 
