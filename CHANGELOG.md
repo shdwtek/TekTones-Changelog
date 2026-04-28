@@ -19,6 +19,7 @@
 - Added Impulse Response module
 - Added pinnable IO and Presets
 - Cleaned up UI
+- ADSR interactable graph
 
 ### 🐛 Bug Fixes
 
