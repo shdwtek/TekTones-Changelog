@@ -20,6 +20,7 @@
 - Added pinnable IO and Presets
 - Cleaned up UI
 - ADSR interactable graph
+- Morphing for Quantum
 
 ### 🐛 Bug Fixes
 
