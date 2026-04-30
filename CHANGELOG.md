@@ -21,6 +21,7 @@
 - Cleaned up UI
 - ADSR interactable graph
 - Morphing for Quantum
+- Presets for Quantum
 
 ### 🐛 Bug Fixes
 
