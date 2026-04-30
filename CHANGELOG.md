@@ -46,6 +46,7 @@
 - Changed Play and Record button location with Visualizer button
 - Quantum Power Button and removed Studio Light theme
 - Updated version number
+- Guitar Effects now record properly
 
 ### 📚 Documentation
 
