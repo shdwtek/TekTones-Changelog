@@ -22,6 +22,7 @@
 - ADSR interactable graph
 - Morphing for Quantum
 - Presets for Quantum
+- Added Input Channel selection
 
 ### 🐛 Bug Fixes
 
