@@ -44,6 +44,7 @@
 - Pinnable IO and Presets now works
 - Changed Play and Record button location with Visualizer button
 - Quantum Power Button and removed Studio Light theme
+- Updated version number
 
 ### 📚 Documentation
 
