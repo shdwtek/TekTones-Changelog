@@ -23,6 +23,7 @@
 - Morphing for Quantum
 - Presets for Quantum
 - Added Input Channel selection
+- Drum Sampler designations and reset sample button
 
 ### 🐛 Bug Fixes
 
