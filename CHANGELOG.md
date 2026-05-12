@@ -25,6 +25,7 @@
 - Added Input Channel selection
 - Drum Sampler designations and reset sample button
 - Added Sample Lab section
+- Preview Slice in Sample Lab
 
 ### 🐛 Bug Fixes
 
