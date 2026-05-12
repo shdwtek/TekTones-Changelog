@@ -50,6 +50,7 @@
 - Quantum Power Button and removed Studio Light theme
 - Updated version number
 - Guitar Effects now record properly
+- Changed how it handles sliced samples
 
 ### 📚 Documentation
 
