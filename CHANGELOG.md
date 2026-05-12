@@ -27,6 +27,7 @@
 - Added Sample Lab section
 - Preview Slice in Sample Lab
 - Updated Help Manual to include the Sample Lab feature
+- Categories for Sample Lab
 
 ### 🐛 Bug Fixes
 
