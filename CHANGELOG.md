@@ -24,6 +24,7 @@
 - Presets for Quantum
 - Added Input Channel selection
 - Drum Sampler designations and reset sample button
+- Added Sample Lab section
 
 ### 🐛 Bug Fixes
 
