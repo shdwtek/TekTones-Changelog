@@ -31,6 +31,7 @@
 - Added Recording Visualizer in Sample Lab
 - Added Input Selection in Sample Lab
 - Updated Help Ref Manual
+- New Theme and Version number
 
 ### 🐛 Bug Fixes
 
