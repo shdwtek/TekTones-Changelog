@@ -30,6 +30,7 @@
 - Categories for Sample Lab
 - Added Recording Visualizer in Sample Lab
 - Added Input Selection in Sample Lab
+- Updated Help Ref Manual
 
 ### 🐛 Bug Fixes
 
