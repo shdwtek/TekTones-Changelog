@@ -28,6 +28,7 @@
 - Preview Slice in Sample Lab
 - Updated Help Manual to include the Sample Lab feature
 - Categories for Sample Lab
+- Added Recording Visualizer in Sample Lab
 
 ### 🐛 Bug Fixes
 
