@@ -32,6 +32,7 @@
 - Added Input Selection in Sample Lab
 - Updated Help Ref Manual
 - New Theme and Version number
+- Added Local Storage Session Saves
 
 ### 🐛 Bug Fixes
 
