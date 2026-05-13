@@ -60,6 +60,7 @@
 - Changed how it handles sliced samples
 - Recording now works in individual sections
 - Sample retention when logged in
+- Cut Tool on Waveform Blocks
 
 ### 📚 Documentation
 
