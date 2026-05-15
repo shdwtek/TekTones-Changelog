@@ -34,6 +34,7 @@
 - New Theme and Version number
 - Added Local Storage Session Saves
 - Added MIDI Learn for Drum Seq on off.
+- Play|Stop|Rec buttons now function on keyboard with TekTones
 
 ### 🐛 Bug Fixes
 
