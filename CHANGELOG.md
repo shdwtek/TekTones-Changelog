@@ -33,6 +33,7 @@
 - Updated Help Ref Manual
 - New Theme and Version number
 - Added Local Storage Session Saves
+- Added MIDI Learn for Drum Seq on off.
 
 ### 🐛 Bug Fixes
 
