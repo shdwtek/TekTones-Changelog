@@ -66,6 +66,7 @@
 - Sample retention when logged in
 - Cut Tool on Waveform Blocks
 - Arrows in Preset Browser
+- Start Audio Engine click vs movement
 
 ### 📚 Documentation
 
