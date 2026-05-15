@@ -38,6 +38,7 @@
 - Added Arrows to Preset Browser
 - Mod Wheel Function
 - Relocated Pin and Added Mod Wheel representation
+- Added Pitch Bend real-time graphic
 
 ### 🐛 Bug Fixes
 
