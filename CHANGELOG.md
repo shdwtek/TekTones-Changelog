@@ -64,6 +64,7 @@
 - Recording now works in individual sections
 - Sample retention when logged in
 - Cut Tool on Waveform Blocks
+- Arrows in Preset Browser
 
 ### 📚 Documentation
 
