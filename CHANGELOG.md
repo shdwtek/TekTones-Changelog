@@ -36,6 +36,7 @@
 - Added MIDI Learn for Drum Seq on off.
 - Play|Stop|Rec buttons now function on keyboard with TekTones
 - Added Arrows to Preset Browser
+- Mod Wheel Function
 
 ### 🐛 Bug Fixes
 
