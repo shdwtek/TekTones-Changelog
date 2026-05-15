@@ -39,6 +39,7 @@
 - Mod Wheel Function
 - Relocated Pin and Added Mod Wheel representation
 - Added Pitch Bend real-time graphic
+- Added Volume Control to Metronome
 
 ### 🐛 Bug Fixes
 
