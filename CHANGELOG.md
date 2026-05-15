@@ -37,6 +37,7 @@
 - Play|Stop|Rec buttons now function on keyboard with TekTones
 - Added Arrows to Preset Browser
 - Mod Wheel Function
+- Relocated Pin and Added Mod Wheel representation
 
 ### 🐛 Bug Fixes
 
