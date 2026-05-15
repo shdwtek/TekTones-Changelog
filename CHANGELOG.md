@@ -67,6 +67,7 @@
 - Cut Tool on Waveform Blocks
 - Arrows in Preset Browser
 - Start Audio Engine click vs movement
+- Updated Help Icon and layering
 
 ### 📚 Documentation
 
