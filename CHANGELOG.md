@@ -74,6 +74,7 @@
 - Updated Help Icon and layering
 - Modified Audio on Playback
 - Updated functionality of Quantum
+- Bounce prematurely ending on low notes
 
 ### 📚 Documentation
 
