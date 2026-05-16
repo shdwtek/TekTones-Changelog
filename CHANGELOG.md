@@ -73,6 +73,7 @@
 - Start Audio Engine click vs movement
 - Updated Help Icon and layering
 - Modified Audio on Playback
+- Updated functionality of Quantum
 
 ### 📚 Documentation
 
