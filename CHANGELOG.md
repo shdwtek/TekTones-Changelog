@@ -40,6 +40,7 @@
 - Relocated Pin and Added Mod Wheel representation
 - Added Pitch Bend real-time graphic
 - Added Volume Control to Metronome
+- Added Scroll control to volume of Metronome
 
 ### 🐛 Bug Fixes
 
