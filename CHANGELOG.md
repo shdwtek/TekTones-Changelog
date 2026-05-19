@@ -76,6 +76,7 @@
 - Updated functionality of Quantum
 - Bounce prematurely ending on low notes
 - Pop noises on MOD Wheel Adjustment
+- Adjusted Mod Wheel functionality
 
 ### 📚 Documentation
 
