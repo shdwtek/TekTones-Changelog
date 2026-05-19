@@ -41,6 +41,7 @@
 - Added Pitch Bend real-time graphic
 - Added Volume Control to Metronome
 - Added Scroll control to volume of Metronome
+- Mod Wheel Echo Control
 
 ### 🐛 Bug Fixes
 
