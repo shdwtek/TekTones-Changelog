@@ -75,6 +75,7 @@
 - Modified Audio on Playback
 - Updated functionality of Quantum
 - Bounce prematurely ending on low notes
+- Pop noises on MOD Wheel Adjustment
 
 ### 📚 Documentation
 
