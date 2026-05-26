@@ -43,6 +43,7 @@
 - Added Scroll control to volume of Metronome
 - Mod Wheel Echo Control
 - Added EQ to Reverb Module
+- Added Shimmer to Reverb Module
 
 ### 🐛 Bug Fixes
 
