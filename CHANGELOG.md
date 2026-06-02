@@ -44,6 +44,7 @@
 - Mod Wheel Echo Control
 - Added EQ to Reverb Module
 - Added Shimmer to Reverb Module
+- Added the word Preset above Browse button
 
 ### 🐛 Bug Fixes
 
