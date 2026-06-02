@@ -81,6 +81,7 @@
 - Pop noises on MOD Wheel Adjustment
 - Adjusted Mod Wheel functionality
 - Corrected Reverb EQ and Shimmer
+- Corrected Master track bouncing issue
 
 ### 📚 Documentation
 
