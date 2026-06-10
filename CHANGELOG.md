@@ -45,6 +45,7 @@
 - Added EQ to Reverb Module
 - Added Shimmer to Reverb Module
 - Added the word Preset above Browse button
+- Added Loop function to Piano Roll
 
 ### 🐛 Bug Fixes
 
