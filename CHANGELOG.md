@@ -85,6 +85,7 @@
 - Corrected Reverb EQ and Shimmer
 - Corrected Master track bouncing issue
 - Corrected playback hang after removing loop
+- Added scroll function to Track Sidebar
 
 ### 📚 Documentation
 
