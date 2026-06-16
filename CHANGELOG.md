@@ -46,6 +46,7 @@
 - Added Shimmer to Reverb Module
 - Added the word Preset above Browse button
 - Added Loop function to Piano Roll
+- Added Bounce Tail selection descriptions to Help Manual
 
 ### 🐛 Bug Fixes
 
