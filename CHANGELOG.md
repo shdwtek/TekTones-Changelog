@@ -87,6 +87,7 @@
 - Corrected Master track bouncing issue
 - Corrected playback hang after removing loop
 - Added scroll function to Track Sidebar
+- In Piano Roll set Bars to 128 and Loop unchecked by default
 
 ### 📚 Documentation
 
