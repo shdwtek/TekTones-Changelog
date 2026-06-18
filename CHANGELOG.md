@@ -90,6 +90,10 @@
 - Added scroll function to Track Sidebar
 - In Piano Roll set Bars to 128 and Loop unchecked by default
 
+### 💼 Other
+
+- Automation Clock Added
+
 ### 📚 Documentation
 
 - Added ChangeLog Github
