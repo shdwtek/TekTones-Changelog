@@ -96,6 +96,7 @@
 - Automation Streamlining
 - Added Fadein and Fadeout for Sample Lab
 - Press Play for Arp notice
+- Added note selection options in Piano Roll
 
 ### 📚 Documentation
 
