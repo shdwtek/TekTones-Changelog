@@ -94,6 +94,7 @@
 
 - Automation Clock Added
 - Automation Streamlining
+- Added Fadein and Fadeout for Sample Lab
 
 ### 📚 Documentation
 
