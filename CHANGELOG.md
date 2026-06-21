@@ -95,6 +95,7 @@
 - Automation Clock Added
 - Automation Streamlining
 - Added Fadein and Fadeout for Sample Lab
+- Press Play for Arp notice
 
 ### 📚 Documentation
 
