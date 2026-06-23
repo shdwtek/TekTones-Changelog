@@ -98,6 +98,7 @@
 - Press Play for Arp notice
 - Added note selection options in Piano Roll
 - Selectable Playhead
+- Send Drum Sample to Lab
 
 ### 📚 Documentation
 
