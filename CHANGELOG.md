@@ -99,6 +99,7 @@
 - Added note selection options in Piano Roll
 - Selectable Playhead
 - Send Drum Sample to Lab
+- Sample Reverse Feature
 
 ### 📚 Documentation
 
