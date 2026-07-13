@@ -103,6 +103,7 @@
 - Drum Mixer and EQ Persistence
 - Added beat generator
 - Added Synth Sequence Generator
+- Updated Help Manual with Drum and Synth Generator features
 
 ### 📚 Documentation
 
