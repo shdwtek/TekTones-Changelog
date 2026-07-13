@@ -101,6 +101,7 @@
 - Send Drum Sample to Lab
 - Sample Reverse Feature
 - Drum Mixer and EQ Persistence
+- Added beat generator
 
 ### 📚 Documentation
 
