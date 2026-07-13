@@ -102,6 +102,7 @@
 - Sample Reverse Feature
 - Drum Mixer and EQ Persistence
 - Added beat generator
+- Added Synth Sequence Generator
 
 ### 📚 Documentation
 
