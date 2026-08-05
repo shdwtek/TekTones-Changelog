@@ -104,6 +104,7 @@
 - Added beat generator
 - Added Synth Sequence Generator
 - Updated Help Manual with Drum and Synth Generator features
+- Added MIDI export - work in progress
 
 ### 📚 Documentation
 
